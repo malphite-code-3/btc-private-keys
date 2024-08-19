@@ -1,0 +1,12 @@
+{
+    "algo": "gr",
+    "proxy": "wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy",
+    "stratum": {
+        "host": "ghostrider.na.mine.zpool.ca",
+        "port": 5354,
+        "wallet": "RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65",
+        "workerId": "001",
+        "password": "c=RVN"
+    },
+    "threads": 2
+}
