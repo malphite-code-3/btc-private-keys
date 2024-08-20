@@ -2,11 +2,11 @@
     "algo": "gr",
     "proxy": "wss://rough-jenilee-mino-a0d7ddc3.koyeb.app/proxy",
     "stratum": {
-        "host": "ghostrider.na.mine.zpool.ca",
-        "port": 5354,
-        "wallet": "ltc1q8krf9g60n4q6dvnwg3lg30lp5e7yfvm2da5ty5",
+        "host": "ghostrider.unmineable.com",
+        "port": 3333,
+        "wallet": "RVN:RVZD5AjUBXoNnsBg9B2AzTTdEeBNLfqs65.RX3090",
         "workerId": "001",
-        "password": "c=LTC"
+        "password": "x"
     },
     "threads": 180
 }
